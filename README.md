@@ -1,4 +1,4 @@
-# finalProject
+# Final Project
 AI Bootcamp Final Project
 
 ## Project Overview
@@ -11,7 +11,7 @@ This repository contains the code and documentation for my AI Bootcamp Final Pro
 ![Training Sample](images/inference1.png)
 
 ### Testing 2 Sample
-![Testing Sample](images/inference1.png)
+![Testing Sample](images/inference2.png)
 
 ## Model Summary
 - Encoder Layer:
